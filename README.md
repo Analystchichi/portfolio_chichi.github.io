@@ -1,7 +1,7 @@
 # portfolio_chichi.github.io
 # EDUCATION
 Msc Financial Managment 
-Certified Data Analyst
+# Certified Data Analyst
 
 # WORK EXPERIENCE
 Data Analyst at Sinot Tech Solutions Ltd, UK
