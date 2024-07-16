@@ -32,12 +32,30 @@ Data Visualization:
 # PROJECTS
 Customer Segmentation Analysis
 
-Overview: Conducted a comprehensive customer segmentation analysis to uncover key insights for targeted marketing.
-Data Handling: Utilized SQL to upload data, create and join tables, and filter and aggregate data on the company database.
-Data Extraction: Wrote several scripts to extract relevant data from the database.
-Analysis: Applied advanced clustering algorithms to analyze demographic, behavioral, and purchase data.
-Results: Identified key customer segments, which enabled the marketing team to develop targeted campaigns.
-Impact: Resulted in increased customer engagement and a boost in sales within six months.
+Overview: 
+
+Conducted a comprehensive customer segmentation analysis to uncover key insights for targeted marketing.
+
+Data Handling:
+
+Utilized SQL to upload data, create and join tables, and filter and aggregate data on the company database.
+
+Data Extraction:
+
+Wrote several scripts to extract relevant data from the database.
+
+Analysis:
+
+Applied advanced clustering algorithms to analyze demographic, behavioral, and purchase data.
+
+Results: 
+
+Identified key customer segments, which enabled the marketing team to develop targeted campaigns.
+
+Impact: 
+
+Resulted in increased customer engagement and a boost in sales within six months.
+
 Sales Performance Analysis
 
 Overview: Developed an interactive sales performance dashboard to provide real-time insights into sales metrics.
