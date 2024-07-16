@@ -8,12 +8,13 @@ Certified Data Analyst
 Data Analyst at Sinot Tech Solutions Ltd, UK
 
 Data Extraction and Analysis:
-.Utilized SQL to extract, manipulate, and analyze structured database data.
 
-.Developed and executed queries to dive deep into extensive data sets, uncovering trends, patterns, and relationships to gain valuable insights.
+. Utilized SQL to extract, manipulate, and analyze structured database data.
+
+. Developed and executed queries to dive deep into extensive data sets, uncovering trends, patterns, and relationships to gain valuable insights.
 
 Data Validation and Integrity:
-.Verified data against predefined rules and cross-referenced with external sources.
+. Verified data against predefined rules and cross-referenced with external sources.
 
 . Performed statistical analysis to identify anomalies, enhancing data accuracy by 15%.
 
