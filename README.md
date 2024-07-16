@@ -14,6 +14,7 @@ Data Extraction and Analysis:
 . Developed and executed queries to dive deep into extensive data sets, uncovering trends, patterns, and relationships to gain valuable insights.
 
 Data Validation and Integrity:
+
 . Verified data against predefined rules and cross-referenced with external sources.
 
 . Performed statistical analysis to identify anomalies, enhancing data accuracy by 15%.
@@ -21,6 +22,7 @@ Data Validation and Integrity:
 . Implemented rigorous data validation processes, reducing data inconsistencies by 40% and ensuring the integrity of key business intelligence reports.
 
 Data Visualization:
+
 . Designed intuitive visualizations using Tableau.
 
 . Created interactive elements and implemented filters, enabling stakeholders to dynamically explore data.
